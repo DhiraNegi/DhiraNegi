@@ -1,6 +1,4 @@
 ### Hi there 👋
+Welcome!!
 
-<!--
-**DhiraNegi/DhiraNegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-dhiranegi.com
+check out dhiranegi.com
